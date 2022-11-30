@@ -1,2 +1,2 @@
 # gamejam-rpg
-Game Jam for Engineering III
+3 hour Game Jam for Engineering III
